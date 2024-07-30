@@ -25,5 +25,6 @@ System requirements:
 * [Name Romanization](https://github.com/NiptictLab/khnlp/tree/main/example/romanize)
 
 ### Contributors
+* [Vichet Chea]
 * [Sotheara Leang](mailto:leangsotheara@gmail.com)
 
